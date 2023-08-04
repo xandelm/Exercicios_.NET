@@ -1,0 +1,15 @@
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\bin\Debug\net7.0\Ternario.exe
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\bin\Debug\net7.0\Ternario.deps.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\bin\Debug\net7.0\Ternario.runtimeconfig.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\bin\Debug\net7.0\Ternario.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\bin\Debug\net7.0\Ternario.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\obj\Debug\net7.0\Ternario.csproj.AssemblyReference.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\obj\Debug\net7.0\Ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\obj\Debug\net7.0\Ternario.AssemblyInfoInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\obj\Debug\net7.0\Ternario.AssemblyInfo.cs
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\obj\Debug\net7.0\Ternario.csproj.CoreCompileInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\obj\Debug\net7.0\Ternario.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\obj\Debug\net7.0\refint\Ternario.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\obj\Debug\net7.0\Ternario.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\obj\Debug\net7.0\Ternario.genruntimeconfig.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Ternario\obj\Debug\net7.0\ref\Ternario.dll

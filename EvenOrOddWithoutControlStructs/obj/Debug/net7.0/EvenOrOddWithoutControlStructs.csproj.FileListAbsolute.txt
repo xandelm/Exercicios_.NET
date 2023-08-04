@@ -1,0 +1,15 @@
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\bin\Debug\net7.0\EvenOrOddWithoutControlStructs.exe
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\bin\Debug\net7.0\EvenOrOddWithoutControlStructs.deps.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\bin\Debug\net7.0\EvenOrOddWithoutControlStructs.runtimeconfig.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\bin\Debug\net7.0\EvenOrOddWithoutControlStructs.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\bin\Debug\net7.0\EvenOrOddWithoutControlStructs.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\obj\Debug\net7.0\EvenOrOddWithoutControlStructs.csproj.AssemblyReference.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\obj\Debug\net7.0\EvenOrOddWithoutControlStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\obj\Debug\net7.0\EvenOrOddWithoutControlStructs.AssemblyInfoInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\obj\Debug\net7.0\EvenOrOddWithoutControlStructs.AssemblyInfo.cs
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\obj\Debug\net7.0\EvenOrOddWithoutControlStructs.csproj.CoreCompileInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\obj\Debug\net7.0\EvenOrOddWithoutControlStructs.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\obj\Debug\net7.0\refint\EvenOrOddWithoutControlStructs.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\obj\Debug\net7.0\EvenOrOddWithoutControlStructs.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\obj\Debug\net7.0\EvenOrOddWithoutControlStructs.genruntimeconfig.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\EvenOrOddWithoutControlStructs\obj\Debug\net7.0\ref\EvenOrOddWithoutControlStructs.dll

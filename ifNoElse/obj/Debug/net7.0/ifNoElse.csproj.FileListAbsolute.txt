@@ -1,0 +1,15 @@
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\bin\Debug\net7.0\ifNoElse.exe
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\bin\Debug\net7.0\ifNoElse.deps.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\bin\Debug\net7.0\ifNoElse.runtimeconfig.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\bin\Debug\net7.0\ifNoElse.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\bin\Debug\net7.0\ifNoElse.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\obj\Debug\net7.0\ifNoElse.csproj.AssemblyReference.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\obj\Debug\net7.0\ifNoElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\obj\Debug\net7.0\ifNoElse.AssemblyInfoInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\obj\Debug\net7.0\ifNoElse.AssemblyInfo.cs
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\obj\Debug\net7.0\ifNoElse.csproj.CoreCompileInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\obj\Debug\net7.0\ifNoElse.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\obj\Debug\net7.0\refint\ifNoElse.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\obj\Debug\net7.0\ifNoElse.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\obj\Debug\net7.0\ifNoElse.genruntimeconfig.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\ifNoElse\obj\Debug\net7.0\ref\ifNoElse.dll
