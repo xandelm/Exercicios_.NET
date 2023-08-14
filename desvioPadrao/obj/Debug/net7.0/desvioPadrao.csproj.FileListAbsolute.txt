@@ -1,0 +1,15 @@
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\obj\Debug\net7.0\desvioPadrao.csproj.AssemblyReference.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\obj\Debug\net7.0\desvioPadrao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\obj\Debug\net7.0\desvioPadrao.AssemblyInfoInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\obj\Debug\net7.0\desvioPadrao.AssemblyInfo.cs
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\obj\Debug\net7.0\desvioPadrao.csproj.CoreCompileInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\bin\Debug\net7.0\desvioPadrao.exe
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\bin\Debug\net7.0\desvioPadrao.deps.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\bin\Debug\net7.0\desvioPadrao.runtimeconfig.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\bin\Debug\net7.0\desvioPadrao.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\bin\Debug\net7.0\desvioPadrao.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\obj\Debug\net7.0\desvioPadrao.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\obj\Debug\net7.0\refint\desvioPadrao.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\obj\Debug\net7.0\desvioPadrao.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\obj\Debug\net7.0\desvioPadrao.genruntimeconfig.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\desvioPadrao\obj\Debug\net7.0\ref\desvioPadrao.dll

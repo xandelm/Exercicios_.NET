@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Xande\\OneDrive\\Documentos\\Vscode Projects\\Dev. .NET\\desvioPadrao\\desvioPadrao.csproj": {}
+    "C:\\Users\\Xande\\OneDrive\\Documentos\\Vscode Projects\\Dev. .NET\\desvioPadrao\\desvioPadrao.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Xande\\OneDrive\\Documentos\\Vscode Projects\\Dev. .NET\\desvioPadrao\\desvioPadrao.csproj": {
+    "C:\\Users\\Xande\\OneDrive\\Documentos\\Vscode Projects\\Dev. .NET\\desvioPadrao\\desvioPadrao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Xande\\OneDrive\\Documentos\\Vscode Projects\\Dev. .NET\\desvioPadrao\\desvioPadrao.csproj",
+        "projectUniqueName": "C:\\Users\\Xande\\OneDrive\\Documentos\\Vscode Projects\\Dev. .NET\\desvioPadrao\\desvioPadrao.csproj",
         "projectName": "desvioPadrao",
-        "projectPath": "c:\\Users\\Xande\\OneDrive\\Documentos\\Vscode Projects\\Dev. .NET\\desvioPadrao\\desvioPadrao.csproj",
+        "projectPath": "C:\\Users\\Xande\\OneDrive\\Documentos\\Vscode Projects\\Dev. .NET\\desvioPadrao\\desvioPadrao.csproj",
         "packagesPath": "C:\\Users\\Xande\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Xande\\OneDrive\\Documentos\\Vscode Projects\\Dev. .NET\\desvioPadrao\\obj\\",
+        "outputPath": "C:\\Users\\Xande\\OneDrive\\Documentos\\Vscode Projects\\Dev. .NET\\desvioPadrao\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Xande\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Xande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
