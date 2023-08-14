@@ -1,0 +1,15 @@
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\bin\Debug\net7.0\Juros.exe
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\bin\Debug\net7.0\Juros.deps.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\bin\Debug\net7.0\Juros.runtimeconfig.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\bin\Debug\net7.0\Juros.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\bin\Debug\net7.0\Juros.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\obj\Debug\net7.0\Juros.csproj.AssemblyReference.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\obj\Debug\net7.0\Juros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\obj\Debug\net7.0\Juros.AssemblyInfoInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\obj\Debug\net7.0\Juros.AssemblyInfo.cs
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\obj\Debug\net7.0\Juros.csproj.CoreCompileInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\obj\Debug\net7.0\Juros.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\obj\Debug\net7.0\refint\Juros.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\obj\Debug\net7.0\Juros.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\obj\Debug\net7.0\Juros.genruntimeconfig.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\Juros\obj\Debug\net7.0\ref\Juros.dll
